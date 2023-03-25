@@ -1,1 +1,1 @@
-### Next.js Redux toolkit thunk TS practice!!!!
+### Next.js Redux toolkit thunk TS practice!
